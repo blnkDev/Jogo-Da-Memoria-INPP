@@ -1,4 +1,24 @@
-# 🐾 Jogo da Memória INPP
+<div align="center">
+
+# 🐾 Sons do Pantanal
+### Jogo da Memória Sonora — Fauna do Pantanal
+
+<p>
+  <img src="https://img.shields.io/badge/Plataforma-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Engine-Construct%202-00ADEF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Design-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Concluído-2ea44f?style=for-the-badge"/>
+</p>
+
+<p>
+  <a href="https://blnkdev.github.io/Jogo-Da-Memoria-INPP/">
+    <img src="https://img.shields.io/badge/🎮%20Jogar%20Agora-GitHub%20Pages-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+</div>
+
+---
 
 Protótipo de jogo educativo digital desenvolvido como parte do processo seletivo para bolsista no **Perfil 2 – Desenvolvimento de Aplicações Interativas/Jogos Educativos** do **Instituto Nacional de Pesquisa do Pantanal (INPP/MCTI)**.
 
@@ -66,6 +86,7 @@ O jogo aborda a **fauna do Pantanal** com foco em aprendizado sonoro e associaç
 
 ```
 Jogo-Da-Memoria-INPP/
+├── project/              # Arquivo-fonte .capx (Construct 2)
 ├── export/               # Versão exportada em HTML5 (jogável no navegador)
 │   ├── index.html
 │   └── ...
@@ -77,12 +98,16 @@ Jogo-Da-Memoria-INPP/
 
 ## ▶️ Como Executar
 
-### Versão Web (recomendada)
-> *(instruções de execução serão adicionadas após exportação do projeto)*
+### 🌐 Versão Web (recomendada)
+Acesse diretamente pelo navegador, sem instalação:
 
-### Editar o projeto
+**👉 [blnkdev.github.io/Jogo-Da-Memoria-INPP](https://blnkdev.github.io/Jogo-Da-Memoria-INPP/)**
+
+Compatível com navegadores modernos (Chrome, Firefox, Edge) em desktops, tablets e totens.
+
+### 🛠️ Editar o projeto
 1. Instale o [Construct 2](https://www.construct.net/en/construct-2/manuals/construct-2/getting-started/installing-construct-2)
-2. Abra o arquivo `.capx` localizado na pasta `project/`
+2. Abra o arquivo `.capx` localizado na raiz do repositório
 
 ---
 
