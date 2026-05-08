@@ -66,6 +66,7 @@ O jogo aborda a **fauna do Pantanal** com foco em aprendizado sonoro e associaç
 - [x] Temporizador
 - [x] Exibição de curiosidades sobre os animais
 - [x] Melhorias de UX/UI
+- [X] Sistema de recorde baseado na pontuação 
 
 ---
 
