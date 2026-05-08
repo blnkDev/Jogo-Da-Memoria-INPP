@@ -38,6 +38,7 @@ O jogo aborda a **fauna do Pantanal** com foco em aprendizado sonoro e associaç
 - Após completar o jogo da memória, você é levado ao quiz
 - Um som de animal é reproduzido e você deve identificar a qual animal ele pertence
 - Essa fase testa a associação aprendida implicitamente durante a partida
+- A cada acerto, é exibida uma curiosidade sobre o animal respectivo
 
 ---
 
@@ -49,6 +50,10 @@ O jogo aborda a **fauna do Pantanal** com foco em aprendizado sonoro e associaç
 | 🦤 Tuiuiú | ✅ | Sim |
 | 🐜 Tamanduá Bandeira | ✅ | Sim |
 | 🦫 Capivara | ✅ | Sim |
+| 🦦 Ariranha | ✅ | Sim |
+| 🦜 Arara-Azul | ✅ | Sim |
+
+---
 
 ---
 
@@ -79,7 +84,7 @@ O jogo aborda a **fauna do Pantanal** com foco em aprendizado sonoro e associaç
 | **HTML5 + JavaScript** | Plataforma de exportação |
 | **Web Audio API** | Reprodução dos sons dos animais |
 
-> O Construct 2 é uma engine de jogos 2D baseada em eventos visuais. O arquivo `.capx` disponível no repositório é o projeto-fonte completo e editável. A pasta de export contém a versão jogável diretamente no navegador.
+> O Construct 2 é uma engine de jogos 2D baseada em eventos visuais. O arquivo `.capx` disponível no repositório é o projeto-fonte completo e editável. A pasta raiz contém a versão jogável diretamente no navegador através do link **👉 [Jogo-Da-Memoria-INPP](https://blnkdev.github.io/Jogo-Da-Memoria-INPP/)**
 
 ---
 
@@ -115,7 +120,7 @@ Compatível com navegadores modernos (Chrome, Firefox, Edge) em desktops, tablet
 ## 💡 Decisões de Desenvolvimento
 
 **Por que Construct 2?**
-Ferramenta com a qual o desenvolvedor possui domínio e licença ativa, permitindo entrega dentro do prazo de 72h com qualidade e foco na experiência do usuário, sem curva de aprendizado adicional.
+A escolha pelo Construct 2 foi estratégica dado o prazo de 72h. Ferramenta com a qual o desenvolvedor possui domínio, permitindo foco total na experiência do usuário e nas funcionalidades do jogo. O projeto poderia ser igualmente desenvolvido em HTML, CSS e JavaScript puro ou outras engines como Godot, porém a familiaridade com a ferramenta garantiu agilidade sem comprometer a qualidade da entrega.
 
 **Por que duas fases?**
 A separação entre o jogo da memória e o quiz de sons segue uma lógica pedagógica intencional: a **exposição implícita** durante a partida (ouvir o som ao virar cada carta, repetidamente) prepara o jogador para o **teste explícito** do quiz. O aprendizado acontece de forma natural, sem pressão inicial.
