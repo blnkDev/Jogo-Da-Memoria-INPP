@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1778119952,
+	"version": 1778206838,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -28,6 +28,8 @@
 		"images/curiosidades-sheet2.png",
 		"images/curiosidades-sheet3.png",
 		"images/x-sheet0.png",
+		"images/explicasonoro-sheet0.png",
+		"images/explicamemoria-sheet0.png",
 		"media/capivara.ogg",
 		"media/onca.ogg",
 		"media/tamandua.ogg",
